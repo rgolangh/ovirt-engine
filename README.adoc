@@ -1,3 +1,5 @@
+THAT REPO IS A TEST REPO FOR JDK9. IT USES A MODIFIED .travis.ci FILE FOR JDK9
+
 = Developer mode installation
 
 == Preparations

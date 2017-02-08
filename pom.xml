@@ -107,7 +107,7 @@
     <javacc.version>2.6</javacc.version>
     <hamcrest.version>1.3</hamcrest.version>
     <reflections.version>0.9.9</reflections.version>
-    <checkstyle.version>6.8</checkstyle.version>
+    <checkstyle.version>6.16</checkstyle.version>
 
     <!-- Plugin configuration -->
     <animal.sniffer.gwt.skip>true</animal.sniffer.gwt.skip>

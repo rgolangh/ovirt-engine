@@ -15,6 +15,7 @@ script:
 env:
   global:
     secure: kgBwT3IHk1vg1PHD4KKqkIOFlv4MGkOA+IK+nsTbPRJEvWpzZSgpHLuL+/2YuB4tntNMMj3LHwPTSJmaGLRdxaSjjv0MfzQA/fudLqTJ+FL3MuA++YcLSfjj6wj1dlMRj+0vYgCQcBMKTktDhGMdE6gUh42AQBzywqe1IcnX5Qs=
+    - MAVEN_OPTS: "--add-exports java.base/java.util=ALL-UNNAMED"
 addons:
   postgresql: "9.2"
 cache:
